@@ -1,0 +1,8 @@
+# Ignore all files by default
+*
+
+# Exceptions
+!.bashrc
+!.gitignore
+!.emacs
+!.zshrc
